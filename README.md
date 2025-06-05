@@ -30,5 +30,5 @@ Empate!
 Escolha pedra, papel ou tesoura: sair
 Jogo encerrado. Obrigado por jogar!
 
-Autor
+Autora
 Daiane Moreira Horbach
